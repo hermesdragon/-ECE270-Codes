@@ -1,0 +1,12 @@
+NET "out<3>" LOC = "P6";
+NET "out<2>" LOC = "P7";
+NET "out<1>" LOC = "M11";
+NET "out<0>" LOC = "M5";
+NET "in<7>" LOC = "N3";
+NET "in<6>" LOC = "E2";
+NET "in<5>" LOC = "F3";
+NET "in<4>" LOC = "G3";
+NET "in<3>" LOC = "B4";
+NET "in<2>" LOC = "K3";
+NET "in<1>" LOC = "L3";
+NET "in<0>" LOC = "P11";
